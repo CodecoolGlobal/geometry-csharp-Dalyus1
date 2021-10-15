@@ -10,11 +10,11 @@ namespace Codecool.Geometry.Shapes
         /// <summary>
         ///     Gets formula for the area of the triangle as a string.
         /// </summary>
-        public new static string AreaFormula => throw new NotImplementedException();
+        public new string AreaFormula => throw new NotImplementedException();
 
         /// <summary>
         ///     Gets formula for the perimeter of the triangle as a string.
         /// </summary>
-        public new static string PerimeterFormula => throw new NotImplementedException();
+        public new string PerimeterFormula => throw new NotImplementedException();
     }
 }

@@ -10,12 +10,12 @@ namespace Codecool.Geometry.Shapes
         /// <summary>
         ///     Gets formula for the area of the pentagon as a string.
         /// </summary>
-        public new static string AreaFormula => throw new NotImplementedException();
+        public new string AreaFormula => throw new NotImplementedException();
 
         /// <summary>
         ///     Gets formula for the perimeter of the pentagon as a string.
         /// </summary>
-        public new static string PerimeterFormula => throw new NotImplementedException();
+        public new string PerimeterFormula => throw new NotImplementedException();
 
         /// <inheritdoc/>
         public override double Area => throw new NotImplementedException();
